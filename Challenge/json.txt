@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "nome": "Paola",
+    "cargo": "Dev",
+    "iniciou_em": "em abril de 1998",
+    "saiu_em": "ainda empregada",
+    "observacoes": "Dedicada",
+    "salario": "2300",
+    "bancoHoras": "tem 5 horas",
+    "contratacao": "CLT",
+    "senioridade": "JUNIOR",
+    "equipeId": "2234",
+    "usuario": {
+      "idUsuario": "3321",
+      "email": "cachinhos-dourados@gmail.com",
+      "senha": "coxinha",
+      "estatistica": "media",
+      "empresa": "Ronaldinho"
+    }
+  }
+}
